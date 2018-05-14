@@ -17,7 +17,7 @@
         "display1Size": "6",
         "display2Font": "Rubik",
         "display2Size": 3,
-        "display5Font": "Roboto Slab",
+        "display5Font": "Pacifico",
         "display5Size": "1.8",
         "display7Font": "Roboto Slab",
         "display7Size": 1,
@@ -2612,7 +2612,7 @@
                 "title": "<b>EMMY-OUTFIT</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Welcome to the Home of Custom Fashion Designing</b>",
+                "text": "Welcome to the Home of Custom Fashion Designing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" href=\"page1.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Customized Native Designs</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page1.html#gallery1-10\" data-toolbar=\"-mbrBtnMove\">Customized English Shirts</a>",
                 "overlayOpacity": "0.3",
                 "overlayColor": "#000000"
@@ -2631,7 +2631,7 @@
                 "title": "<b>EMMY-OUTFIT</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<b>Welcome to the Home of Custom Fashion Designing</b>",
+                "text": "Welcome to the Home of Custom Fashion Designing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" href=\"page1.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Customized Native Designs</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page1.html#gallery1-10\" data-toolbar=\"-mbrBtnMove\">Customized English Shirts</a>",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#000000"
@@ -2650,7 +2650,7 @@
                 "title": "<b>EMMY-OUTFIT</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Welcome to the Home of Custom Fashion Designing</b>",
+                "text": "Welcome to the Home of Custom Fashion Designing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" href=\"page1.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Customized Native Designs</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page1.html#gallery1-10\" data-toolbar=\"-mbrBtnMove\">Customized English Shirts</a>",
                 "overlayOpacity": "0.3"
               },
@@ -2668,7 +2668,7 @@
                 "title": "<b>EMMY-OUTFIT</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Welcome to the Home of Custom Fashion Designing</b>",
+                "text": "Welcome to the Home of Custom Fashion Designing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"page1.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Customized Native Designs</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page1.html#gallery1-10\" data-toolbar=\"-mbrBtnMove\">Customized English Shirts</a>",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#000000"
@@ -2687,7 +2687,7 @@
                 "title": "<b>EMMY-OUTFIT</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Welcome to the Home of Custom Fashion Designing</b>",
+                "text": "Welcome to the Home of Custom Fashion Designing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" href=\"page1.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Customized Native Designs</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page1.html#gallery1-10\" data-toolbar=\"-mbrBtnMove\">Customized English Shirts</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#073b4c"
