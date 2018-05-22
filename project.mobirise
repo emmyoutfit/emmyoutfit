@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EmmyOutFit",
-    "currentPage": "page.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#cac2c2",
         "#675cd4",
         "#000000",
         "#7c79c4",
         "#45505b",
         "#113d4b",
-        "#465dca",
-        "#fffafa"
+        "#465dca"
       ]
     },
     "versionFirst": "4.7.2",
@@ -538,6 +538,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#cac2c2"
             }
           },
           "_name": "gallery1",
@@ -619,7 +622,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order<br>Code: 005<br>",
                 "active": false
               },
               {
@@ -632,7 +635,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 006<br>",
                 "active": false
               },
               {
@@ -645,7 +648,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 007<br>",
                 "active": false
               },
               {
@@ -658,7 +661,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 008<br>",
                 "active": true
               }
             ]
@@ -733,7 +736,8 @@
               }
             },
             ".mbr-gallery-item > div > span": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#cac2c2"
             }
           },
           "_name": "gallery1",
@@ -763,7 +767,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 009<br>",
                 "active": false
               },
               {
@@ -776,7 +780,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 010",
                 "active": false
               },
               {
@@ -789,7 +793,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 011",
                 "active": false
               },
               {
@@ -802,7 +806,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 012",
                 "active": false
               },
               {
@@ -815,7 +819,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 013",
                 "active": false
               },
               {
@@ -828,7 +832,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 014",
                 "active": false
               },
               {
@@ -841,7 +845,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 015",
                 "active": false
               },
               {
@@ -854,7 +858,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 016",
                 "active": true
               }
             ]
@@ -927,6 +931,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#cac2c2"
             }
           },
           "_name": "gallery1",
@@ -956,7 +963,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 017",
                 "active": false
               },
               {
@@ -969,7 +976,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 018",
                 "active": false
               },
               {
@@ -982,7 +989,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 019",
                 "active": false
               },
               {
@@ -995,7 +1002,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 020",
                 "active": false
               },
               {
@@ -1008,7 +1015,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 022",
                 "active": false
               },
               {
@@ -1021,7 +1028,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 023",
                 "active": false
               },
               {
@@ -1034,7 +1041,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 024",
                 "active": true
               },
               {
@@ -1047,7 +1054,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 021",
                 "active": false
               }
             ]
@@ -1120,6 +1127,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#cac2c2"
             }
           },
           "_name": "gallery1",
@@ -1149,7 +1159,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 025",
                 "active": false
               },
               {
@@ -1162,7 +1172,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 026",
                 "active": false
               },
               {
@@ -1175,7 +1185,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 027",
                 "active": false
               },
               {
@@ -1188,7 +1198,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 028",
                 "active": false
               },
               {
@@ -1201,7 +1211,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 029",
                 "active": false
               },
               {
@@ -1214,7 +1224,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 030",
                 "active": false
               },
               {
@@ -1227,7 +1237,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 031",
                 "active": false
               },
               {
@@ -1240,7 +1250,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Click to order\n<br>Code: 032",
                 "active": true
               }
             ]
